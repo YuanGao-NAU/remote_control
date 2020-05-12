@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Fuck!
 import RPi.GPIO as GPIO
 import time
 def DHT11(pin):
