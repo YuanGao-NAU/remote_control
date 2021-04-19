@@ -58,8 +58,3 @@ def DHT11(pin):
 if __name__=='__main__':
     pin =21
 	    T,H = DHT11(pin)
-
-作者：ATangYaaaa
-链接：https://www.jianshu.com/p/6cae5ae7957f
-来源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
